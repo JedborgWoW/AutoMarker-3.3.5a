@@ -13,7 +13,7 @@
 ----------------------------------------------------------------------]]
 
 local ADDON_NAME = "AutoMarker"
-local VERSION = "2.0"
+local VERSION = "3.0"
 
 -- ---------------------------------------------------------------------
 -- Constants and defaults
@@ -378,7 +378,7 @@ local function CreateGUI()
 
 	local title = gui:CreateFontString(nil, "OVERLAY", "GameFontNormalLarge")
 	title:SetPoint("TOP", 0, -20)
-	title:SetText("AutoMarker |cff888888v" .. VERSION .. "|r")
+	title:SetText("Automarker " .. VERSION .. " |cff888888By Jedborg|r")
 
 	local close = CreateFrame("Button", nil, gui, "UIPanelCloseButton")
 	close:SetPoint("TOPRIGHT", -8, -8)

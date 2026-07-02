@@ -1,7 +1,8 @@
 ## Interface: 30300
-## Title: AutoMarker
+## Title: Automarker 3.0 By Jedborg
 ## Notes: Automatically sets raid target icons on your team (players and pets) when you enter an arena. Type /am to configure.
-## Version: 2.0
+## Author: Jedborg
+## Version: 3.0
 ## SavedVariables: AutoMarkerDB
 
 AutoMarker.lua

@@ -1,4 +1,4 @@
-# AutoMarker
+# Automarker 3.0 — By Jedborg
 
 A lightweight World of Warcraft **3.3.5a (WotLK)** addon that automatically puts raid target icons on everyone in your team the moment you enter an arena — players and pets alike. No more fumbling with marks during preparation.
 
