@@ -2,6 +2,8 @@
 
 A lightweight World of Warcraft **3.3.5a (WotLK)** addon that automatically puts raid target icons on everyone in your team the moment you enter an arena — players and pets alike. No more fumbling with marks during preparation.
 
+![Automarker configuration window](gui.png)
+
 ## What it does
 
 When you zone into an arena, AutoMarker assigns each teammate a raid target icon based on their class, then keeps watching for about two minutes to make sure the marks actually stick — covering the preparation room, the gates opening, and the client occasionally dropping a mark right after a loading screen. Pets are marked automatically when they are summoned, even mid-match.
