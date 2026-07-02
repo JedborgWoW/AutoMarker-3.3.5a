@@ -57,8 +57,8 @@ local DEFAULTS = {
 	-- 0 means "no mark". Duplicates between classes are fine: if two
 	-- units want the same icon, the later one gets the first free icon.
 	classMarks = {
-		WARRIOR = 7, PALADIN = 1, HUNTER = 4, ROGUE = 1, PRIEST = 5,
-		DEATHKNIGHT = 8, SHAMAN = 6, MAGE = 5, WARLOCK = 3, DRUID = 2,
+		WARRIOR = 7, PALADIN = 3, HUNTER = 4, ROGUE = 1, PRIEST = 8,
+		DEATHKNIGHT = 7, SHAMAN = 6, MAGE = 5, WARLOCK = 3, DRUID = 2,
 	},
 	petMarks = { HUNTER = 0, WARLOCK = 0, DEATHKNIGHT = 0, OTHER = 0 },
 }

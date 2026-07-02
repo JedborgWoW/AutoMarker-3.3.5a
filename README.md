@@ -37,16 +37,16 @@ The configuration window lets you pick a mark (or **None**) for every class and 
 
 | Icon | Class |
 |---|---|
-| ⭐ Star (1) | Rogue, Paladin |
+| ⭐ Star (1) | Rogue |
 | 🟠 Circle (2) | Druid |
-| 🟣 Diamond (3) | Warlock |
+| 🟣 Diamond (3) | Paladin, Warlock |
 | 🟢 Triangle (4) | Hunter |
-| 🌙 Moon (5) | Priest, Mage |
+| 🌙 Moon (5) | Mage |
 | 🟦 Square (6) | Shaman |
-| ❌ Cross (7) | Warrior |
-| 💀 Skull (8) | Death Knight |
+| ❌ Cross (7) | Warrior, Death Knight |
+| 💀 Skull (8) | Priest |
 
-Since there are 10 classes and only 8 icons, some classes share a preferred icon — when both are in your team, the conflict is resolved automatically. Pet marks default to **None**; enable them in the GUI if you want them.
+Since there are 10 classes and only 8 icons, some classes share a preferred icon — when both are in your team, the conflict is resolved automatically: the first player (sorted by name) keeps the preferred icon and the other gets the first free one. Pet marks default to **None**; enable them in the GUI if you want them.
 
 ## Good to know
 
